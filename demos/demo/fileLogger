@@ -1,0 +1,19 @@
+2022-09-02 11:44:16.819  INFO 29188 --- [main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.4.1 on LAPTOP-5RG5BSEU with PID 29188 (C:\Development\demos\demo\target\demo-0.0.1-SNAPSHOT.jar started by CA-User in C:\Development\demos\demo)
+2022-09-02 11:44:16.826  INFO 29188 --- [main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-09-02 11:44:18.122  INFO 29188 --- [main] org.eclipse.jetty.util.log               : Logging initialized @3047ms to org.eclipse.jetty.util.log.Slf4jLog
+2022-09-02 11:44:18.425  INFO 29188 --- [main] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 9090
+2022-09-02 11:44:18.432  INFO 29188 --- [main] org.eclipse.jetty.server.Server          : jetty-9.4.48.v20220622; built: 2022-06-21T20:42:25.880Z; git: 6b67c5719d1f4371b33655ff2d047d24e171e49a; jvm 17.0.4.1+1-LTS-2
+2022-09-02 11:44:18.477  INFO 29188 --- [main] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2022-09-02 11:44:18.478  INFO 29188 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1525 ms
+2022-09-02 11:44:18.623  INFO 29188 --- [main] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2022-09-02 11:44:18.624  INFO 29188 --- [main] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2022-09-02 11:44:18.625  INFO 29188 --- [main] org.eclipse.jetty.server.session         : node0 Scavenging every 600000ms
+2022-09-02 11:44:18.636  INFO 29188 --- [main] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@5c45d770{application,/,[file:///C:/Users/CA-User/AppData/Local/Temp/jetty-docbase.9090.850742391006091724/],AVAILABLE}
+2022-09-02 11:44:18.638  INFO 29188 --- [main] org.eclipse.jetty.server.Server          : Started @3566ms
+2022-09-02 11:44:19.130  INFO 29188 --- [main] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-02 11:44:19.131  INFO 29188 --- [main] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-09-02 11:44:19.133  INFO 29188 --- [main] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-09-02 11:44:19.234  INFO 29188 --- [main] o.e.jetty.server.AbstractConnector       : Started ServerConnector@4f0f2942{HTTP/1.1, (http/1.1)}{0.0.0.0:9090}
+2022-09-02 11:44:19.236  INFO 29188 --- [main] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 9090 (http/1.1) with context path '/'
+2022-09-02 11:44:19.253  INFO 29188 --- [main] com.example.demo.DemoApplication         : Started DemoApplication in 3.422 seconds (JVM running for 4.181)
+2022-09-02 11:44:24.137  INFO 29188 --- [qtp485937598-31] com.crossasyst.demo.EmployeeService      : employee name is kunal dinkar
