@@ -36,10 +36,10 @@ public class EmployeeController {
 
     }
 
-    @PutMapping(path = "/employees/{employeeId}")
-    public  ResponseEntity<Employee> updateEmployee(@RequestBody Employee employee,@PathVariable Long employeeId){
-
-        Employee emp = employeeService
-    }
+//    @PutMapping(path = "/employees/{employeeId}")
+//    public  ResponseEntity<Employee> updateEmployee(@RequestBody Employee employee,@PathVariable Long employeeId){
+//
+//        Employee emp = employeeService
+//    }
 
 }
