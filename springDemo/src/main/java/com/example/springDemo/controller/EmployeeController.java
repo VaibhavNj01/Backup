@@ -23,7 +23,7 @@ public class EmployeeController {
     }
 
     @PostMapping(path = "/employees", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
-    private ResponseEntity<EmployeeResponse> createEmployee(@RequestBody Employee employee) {
+    public   ResponseEntity<EmployeeResponse> createEmployee(@RequestBody Employee employee) {
         EmployeeResponse employeeResponse = employeeService.createEmployee(employee);
         return new ResponseEntity<>(employeeResponse, HttpStatus.OK);
     }
