@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc5e5fc1-fa45-4157-be07-cde528fdd905" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../springmapstruct/.jpb/persistence-units.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springmapstruct/src/main/java/com/example/springmapstruct/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springmapstruct/src/main/java/com/example/springmapstruct/entity/PersonEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springmapstruct/src/main/java/com/example/springmapstruct/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springmapstruct/src/main/java/com/example/springmapstruct/model/PersonResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springmapstruct/src/main/java/com/example/springmapstruct/repository/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springmapstruct/src/main/java/com/example/springmapstruct/service/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FirstProject.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-jpa.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-jpa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-jpa/src/main/java/com/example/demo/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-jpa/src/main/java/com/example/demo/service/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-jpa/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-jpa/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springmapstruct.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springmapstruct/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../springmapstruct/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../springmapstruct/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../springmapstruct/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EmoOEaob82SPJWhByx5CExTEtH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Development/springmapstructdemo/springmapstructdemo&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc5e5fc1-fa45-4157-be07-cde528fdd905" name="Changes" comment="" />
+      <created>1663210088071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663210088071</updated>
+    </task>
+    <servers />
+  </component>
+</project>
