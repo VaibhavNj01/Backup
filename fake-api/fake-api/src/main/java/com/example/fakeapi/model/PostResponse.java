@@ -1,5 +1,8 @@
 package com.example.fakeapi.model;
-
-public class PostResponse extends Post {
-    private Long userId;
+import lombok.Getter;
+import lombok.Setter;
+@Getter
+@Setter
+public class PostResponse extends Post{
+    private Long id;
 }

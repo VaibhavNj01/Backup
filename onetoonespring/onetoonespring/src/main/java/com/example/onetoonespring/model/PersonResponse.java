@@ -1,2 +1,8 @@
-package com.example.onetoonespring.model;public class PersonResponse {
+package com.example.onetoonespring.model;
+
+import lombok.Data;
+
+@Data
+public class PersonResponse {
+    private Long id;
 }

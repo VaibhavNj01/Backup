@@ -9,6 +9,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class Post {
     private Long userId;
-    private String name;
+    private String title;
     private String body;
 }

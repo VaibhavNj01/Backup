@@ -5,10 +5,9 @@ import com.example.demo.entity.PersonEntity;
 import com.example.demo.model.Person;
 import com.example.demo.model.PersonResponse;
 import com.example.demo.repository.PersonRepository;
-import org.jetbrains.annotations.NotNull;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestBody;
+
 
 @Service
 public class PersonService {
